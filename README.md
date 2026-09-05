@@ -24,6 +24,18 @@ A comprehensive Customer Relationship Management system with role-based access c
 ### 6. Repository Structure
 ![GitHub Structure](screenshots/06-github-structure.png)
 
+### 7. Sales Pipeline (Kanban Board)
+![Sales Pipeline](screenshots/07-sales-pipeline.png)
+
+### 8. Task Management & Calendar
+![Task Calendar](screenshots/08-task-calendar.png)
+
+### 9. Advanced Analytics & Reports
+![Analytics](screenshots/09-analytics-reports.png)
+
+### 10. Add New Customer Form
+![Add Customer](screenshots/10-add-customer-form.png)
+
 ## Features
 
 - **Role-Based Access Control**: Admin, Manager, and Sales Rep roles with granular permissions
