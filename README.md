@@ -2,6 +2,28 @@
 
 A comprehensive Customer Relationship Management system with role-based access control, secure authentication, and modern UI/UX.
 
+## Screenshot
+
+## 📸 Application UI Screenshots
+
+### 1. Secure Login Interface
+![Login Page](screenshots/01-login.png)
+
+### 2. CRM Dashboard & Analytics
+![Dashboard](screenshots/02-dashboard.png)
+
+### 3. Customer Detail View
+![Customer Detail](screenshots/03-customer-detail.png)
+
+### 4. Customer List & Data Table
+![Customer List](screenshots/04-customer-list.png)
+
+### 5. Role Management & Security Settings
+![Role Management](screenshots/05-role-management.png)
+
+### 6. Repository Structure
+![GitHub Structure](screenshots/06-github-structure.png)
+
 ## Features
 
 - **Role-Based Access Control**: Admin, Manager, and Sales Rep roles with granular permissions
